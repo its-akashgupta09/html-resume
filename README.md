@@ -17,7 +17,7 @@ The purpose of this project is to showcase my profile, skills, and experience in
 ## 🚀 Live Demo
 
 You can view the resume here:  
-👉 https://its-akashgupta09.github.io/html-resume/
+👉 https://akashguptadev.github.io/html-resume/
 
 ---
 
@@ -54,9 +54,4 @@ You can explore more Unicode icons here:
 
 ---
 
-## 📂 How to View Locally
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
   
